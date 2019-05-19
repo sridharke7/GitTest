@@ -4,3 +4,4 @@ Hello, I am new to GitHub
 .git status
 .git rm
 .git status
+.git diff

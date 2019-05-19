@@ -3,3 +3,4 @@ Hello, I am new to GitHub
 .git commit
 .git status
 .git rm
+.git status
